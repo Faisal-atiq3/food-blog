@@ -1,0 +1,23 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.button{
+   
+    text-decoration: none;
+    background-image: linear-gradient(red,tomato);
+    padding: 10px 40px;
+    border-radius: 40px;
+    color: white;
+    font-weight: 700;
+    
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+}
+.half img{
+    width: 100%;
+}
+
