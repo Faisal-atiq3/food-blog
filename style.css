@@ -15,9 +15,13 @@ section{
     display: flex;
 }
 .half{
-    width: 50%;
+    width: 40%;
 }
 .half img{
     width: 100%;
 }
 
+.about{
+    display: flex;
+    background-image: url(images/Frame\ 59.jpg);
+}
